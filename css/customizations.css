@@ -1,0 +1,39 @@
+.reveal blockquote {
+  padding: 1.2em;
+  background: rgba(255,255,255,.10) !important;
+}
+
+.reveal pre code {
+  padding: 1em;
+}
+
+.reveal h1 {
+  font-size: 3.40em;
+}
+
+.reveal ul {
+  margin-bottom: 1em;
+}
+
+.reveal .tiny {
+  margin-top: 2em;
+  font-size: 0.7em;
+  letter-spacing: 0.05em;
+}
+.reveal .tiny span.item {
+  margin: 0 20px;
+}
+.reveal .tiny .logo {
+  background: vertical;
+  transparent-align: top;
+  border: 0;
+  height: 32px;
+  width: 32px;
+  margin: 0 5px;
+}
+.compartmentalize code {
+  margin: auto 20px;
+}
+.compartmentalize code.rails {
+  color: #777;
+}
